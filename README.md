@@ -55,5 +55,5 @@
  <details>
 <summary> ERD </summary>
 <div markdown="1">
-<img src = "https://github.com/ye2un/Yours_mine/assets/120310641/c8738bb8-2809-4d60-b0a6-2c3d3a9c2e2e">
+<img src = "https://github.com/ye2un/Yours_mine/assets/120310641/c8738bb8-2809-4d60-b0a6-2c3d3a9c2e2e" width = 300% height = 300%>
 </details>
